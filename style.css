@@ -40,12 +40,14 @@ article div {
 /* Paragraphs */
 p {
   line-height: 1.5;
+  text-align: center;
 }
 
 /* Links */
 a:link {
   color: #d62828;
 }
+
 
 a:hover {
   color: #f77f00;
